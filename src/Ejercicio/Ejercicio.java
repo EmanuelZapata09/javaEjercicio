@@ -9,7 +9,8 @@ package Ejercicio;
  * @author emaue
  */
 public class Ejercicio {
-    /*Ejercicio Integrador: Clases
+    /*
+    Ejercicio Integrador: Clases
 Abstractas e Interfaces
 Un fanático de Pókemon desea implementar para el modelado de un videojuego los diferentes
 ataques de cada una de estas criaturas. Para ello, cuenta con una clase abstracta llamada
@@ -35,5 +36,6 @@ correspondientes para adaptarlos a cada Pókemon mostrando un mensaje en pantall
 indique qué pókemon es y qué ataque está realizando, por ejemplo: “Soy Charmander y estoy
 atacando con Ascuas” o “Soy Pikachu y estoy atacando con placaje”. Luego de realizar lo
 mencionado, crear las instancias necesarias y llamar a cada uno de los métodos de cada
-Pokemon */
+Pokemon.
+    */
 }
