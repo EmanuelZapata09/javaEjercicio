@@ -10,7 +10,7 @@ package Ejercicio;
  */
 public class Ejercicio {
     /*
-    Ejercicio Integrador: Clases
+    ejercicio Integrador: Clases
 Abstractas e Interfaces
 Un fanático de Pókemon desea implementar para el modelado de un videojuego los diferentes
 ataques de cada una de estas criaturas. Para ello, cuenta con una clase abstracta llamada
